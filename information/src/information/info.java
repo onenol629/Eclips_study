@@ -6,6 +6,8 @@ public class info {
 		// TODO Auto-generated method stub
 		System.out.println("20131145");
 		System.out.println("컴퓨터소프트웨어학과");
+		System.out.println("26살");
+		System.out.println("예비군");
 
 	}
 
