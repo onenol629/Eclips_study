@@ -9,7 +9,7 @@ public class info {
 		System.out.println("20131145");
 		System.out.println("ComputerSoftware");
 		System.out.println("26");
-		System.out.println("Student");
+		System.out.println("Students");
 	
 
 	}
