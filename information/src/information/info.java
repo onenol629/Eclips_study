@@ -4,12 +4,12 @@ public class info {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("¿ø±¤´ëÇĞ±³");
-		System.out.println("°­ÁØÇö");
-		System.out.println("20131145");
-		System.out.println("ÄÄÇ»ÅÍ¼ÒÇÁÆ®¿ş¾îÇĞ°ú");
-		System.out.println("26»ì");
-		System.out.println("¿¹ºñ±º");
+		System.out.println("ì„œìš¸ëŒ€í•™êµ");
+		System.out.println("í™ê¸¸ë™");
+		System.out.println("20191234");
+		System.out.println("ì¸ë¬¸í•™ê³¼");
+		System.out.println("20ì‚´");
+		System.out.println("ë¯¸í•„");
 	
 
 	}
